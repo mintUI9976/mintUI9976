@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=mintUI9976&style=flat-square&color=blueviolet) 
 # Hello, developers 🥰 
 ## About Me 📣
 ###### My name is Niklas and I work as a forwarding agent, but in my spare time I enjoy my hobby, software development 🛠 . I live in Germany and i'am 22 years old.
