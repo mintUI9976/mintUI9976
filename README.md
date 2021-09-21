@@ -4,7 +4,7 @@
 ###### My name is Niklas and I work as a Software Engineer at Comwerk.de. I live in Germany and i'am 22 years old.
 ## Languages / OS 🚩 and Tools 🔨
 #### OS 🏴󠁮󠁧󠁯󠁳󠁿
-![](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white) ![](https://img.shields.io/badge/-Ubuntu-purple?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/-Zorin-blue?style=flat-square&logo=zorin&logoColor=white) ![](https://img.shields.io/badge/-Debain-redhtmlhtmlhtml?style=flat-square&logo=Debain&logoColor=white)
+![](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white) ![](https://img.shields.io/badge/-Ubuntu-purple?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/-Zorin-blue?style=flat-square&logo=zorin&logoColor=white) ![](https://img.shields.io/badge/-Debian-red?style=flat-square&logo=Debian&logoColor=white)
 ---------------------------------------------------------
 #### Languages 🏴󠁮󠁧󠁯󠁳󠁿 and Tools 🔨
 ![Intellij](https://img.shields.io/badge/EDITOR-Intellij-blue?style=flat-square&logo=intellij-idea&logoColor=white)
