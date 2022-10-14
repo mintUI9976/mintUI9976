@@ -18,8 +18,6 @@
 ![](https://img.shields.io/badge/FRAMEWORK-Laravel-red?style=flat-square&logo=Laravel&logoColor=white)
 ![](https://img.shields.io/badge/FRAMEWORK-Spring-green?style=flat-square&logo=Spring&logoColor=white)
 ![](https://img.shields.io/badge/STYLEESHEETS-Google-white?style=flat-square&logo=Google&logoColor=white)
-## Gitlab 🔨
-[![ZyonicSoftware](https://img.shields.io/badge/-ZyonicSoftware-red?style=flat-square&logo=gitlab&logoColor=white "https://gitlab.zyonicsoftware.com/users/mintUI9976")](https://gitlab.zyonicsoftware.com/users/mintUI9976)
   
 </div>
 
