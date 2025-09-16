@@ -3,7 +3,7 @@
 # Hello, developers 🥰 ![](https://komarev.com/ghpvc/?username=mintUI9976&style=flat-square&color=blueviolet) 
 
 ## About Me 📣
-##### My name is Niklas and I work as a Software Engineer at Comwerk.de. I live in Germany and i'am 23 years old.
+##### My name is Niklas and I work as a Software Engineer. I live in Germany and i'am 26 years old.
   
 ## Languages / OS 🚩 and Tools 🔨
 ## OS 🏴󠁮󠁧󠁯󠁳󠁿
